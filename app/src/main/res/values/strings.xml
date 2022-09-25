@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="my_laptop_name">Window 10</string>
+
+    <string name="correct_text">Correct !</string>
+    <string name="incorrect_text">Incorrect !</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_text">Great!</string>
+    <string name="incorrect_toast_text">Not good!</string>
+
+    <string name="q1">Câu này là 1 câu đúng ?</string>
+    <string name="q2">Câu này là 1 câu sai ?</string>
+    <string name="q3">Câu này là 1 câu đúng ?</string>
+    <string name="q4">Câu này là 1 câu sai ?</string>
+    <string name="q5">Câu này là 1 câu đúng ?</string>
+    <string name="q6">Câu này là 1 câu sai ?</string>
+    <string name="q7">Câu này là 1 câu đúng ?</string>
+    <string name="q8">Câu này là 1 câu sai ?</string>
+    <string name="q9">Câu này là 1 câu đúng ?</string>
+    <string name="q10">Câu này là 1 câu sai ?</string>
+</resources>
